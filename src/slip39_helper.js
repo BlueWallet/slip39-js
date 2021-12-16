@@ -2238,5 +2238,6 @@ exports = module.exports = {
   splitSecret,
   combineMnemonics,
   crypt,
-  bitsToBytes
+  bitsToBytes,
+  WORD_LIST,
 };
